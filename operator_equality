@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html>
+
+<body>
+    <?php
+
+    $x = 6;
+    $y = "6";
+
+    if($x==$y) {
+        echo "Nilai True <br>";
+    }
+
+    echo "Finish"
+    ?>
+</body>
+
+</html>
